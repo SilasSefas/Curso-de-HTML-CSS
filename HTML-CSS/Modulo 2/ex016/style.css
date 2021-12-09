@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    /*height: 100%;  teg usada para ajustar o degrade*/
+}
+
+body{
+    background-image: linear-gradient(to right, #F9C74F, #F8961E);
+}
+main{
+    background: #fcf0e1;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 3px rgba(173, 80, 29, 0.5);
+}
+
+h1{
+    color: #90BE6D;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(40, 53, 30, 0.5);
+}
+h2{
+    color: #F94144;
+}
+p{
+    text-align: justify;
+
+}
